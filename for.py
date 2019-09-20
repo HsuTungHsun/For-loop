@@ -11,4 +11,11 @@ for name in names:
 #exercise
 students = ['Allen', 'Tom', 'Mayday', 'JJ', 'Jolin', 'Jay', 'Jam']
 for student in students:
-	print('Hi', student)
+	print('Hi ', student)
+
+
+
+#str as list
+book = 'Harry'
+for c in book: #['H', 'a', 'r', 'r', 'y']
+	print(c)
